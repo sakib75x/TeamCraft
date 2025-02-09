@@ -359,7 +359,7 @@ const AdminPackages = ({ priceingsec }) => {
                 </td>
               </tr>
 
-              {/* babel ai feature */}
+              {/*  ai feature */}
               <tr>
                 <td className="border-t  border-purple-700 dark:border-[#3e1878c2] px-7 py-5  ">
                   <p className="font-medium">Babel AI</p>
