@@ -75,7 +75,7 @@ const Profile = () => {
               <span className=" rounded-full p-1">
                 <Avatar className="w-40 h-40">
                   <AvatarImage src={user?.image_url ? user?.image_url : userImage} />
-                  <AvatarFallback>Babel</AvatarFallback>
+                  <AvatarFallback>Default</AvatarFallback>
                 </Avatar>
               </span>
             </p>
