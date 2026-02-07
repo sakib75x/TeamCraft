@@ -26,10 +26,6 @@
 # To Run Local
 
 ```bash
-# Clone this project
-
-
-# Access
 
 
 # Install dependencies
